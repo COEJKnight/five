@@ -13,7 +13,7 @@ django-filter==0.14.0
 django-queryset-csv==1.0.0
 django-simple-history==1.8.2
 django-spaghetti-and-meatballs==0.2.2
-Django==1.11.4
+Django==1.11.28
 djangorestframework==3.4.6
 drf-extensions==0.3.1
 drf-tracking==1.1.0
